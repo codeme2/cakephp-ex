@@ -228,5 +228,3 @@ You can also add some CSS styles for your pages at: %s.',
 	<li><a href="http://cakefoundation.org"><?php echo __d('cake_dev', 'Cake Software Foundation'); ?> </a>
 	<ul><li><?php echo __d('cake_dev', 'Promoting development related to CakePHP'); ?></li></ul></li>
 </ul>
-
-<h3>Mike update!!</h3>
